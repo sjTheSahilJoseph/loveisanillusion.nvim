@@ -19,7 +19,7 @@ hi GitGutterDelete guifg=#cec9c9 guibg=NONE
 hi GitGutterChangeDelete guifg=#cec9c9 guibg=NONE
 hi cssIdentifier guifg=#cec9c9 guibg=NONE
 hi cssImportant guifg=#cec9c9 guibg=NONE
-hi Type guifg=#cec9c9 guibg=NONE
+hi Type guifg=#f39207 guibg=NONE
 hi Identifier guifg=#cec9c9 guibg=NONE
 hi PMenuSel guifg=#f39207 guibg=NONE
 hi Constant guifg=#f39207 guibg=NONE
@@ -42,7 +42,7 @@ hi Number guifg=#21eb10 guibg=NONE
 hi CursorLineNR guifg=#21eb10 guibg=NONE
 hi Define guifg=#21eb10 guibg=NONE
 hi MoreMsg guifg=#21eb10 guibg=NONE
-hi Tag guifg=#21eb10 guibg=NONE
+hi Tag guifg=#f39207 guibg=NONE
 hi String guifg=#21eb10 guibg=NONE
 hi MatchParen guifg=#21eb10 guibg=NONE
 hi Macro guifg=#21eb10 guibg=NONE
@@ -76,4 +76,4 @@ hi StatusLine gui=bold guibg=#181717 guifg=#b1b1b1
 hi StatusLineNC gui=NONE guibg=#000000 guifg=#b1b1b1
 hi Search guibg=#6a6a6d guifg=#b1b1b1
 hi VertSplit gui=NONE guifg=#181717 guibg=NONE
-hi Visual gui=NONE guibg=#181717
+hi Visual gui=NONE guibg=#f11000
