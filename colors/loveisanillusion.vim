@@ -28,7 +28,7 @@ hi DiffAdd guifg=#f39207 guibg=NONE
 hi GitGutterAdd guifg=#f39207 guibg=NONE
 hi cssIncludeKeyword guifg=#f39207 guibg=NONE
 hi Keyword guifg=#f39207 guibg=NONE
-hi IncSearch guifg=#21eb10 guibg=NONE
+hi IncSearch guifg=#242491 guibg=#21eb10
 hi Title guifg=#21eb10 guibg=NONE
 hi PreCondit guifg=#21eb10 guibg=NONE
 hi Debug guifg=#21eb10 guibg=NONE
