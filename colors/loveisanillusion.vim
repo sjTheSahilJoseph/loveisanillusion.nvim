@@ -20,8 +20,6 @@ hi GitGutterChangeDelete guifg=#cec9c9 guibg=NONE
 hi cssIdentifier guifg=#cec9c9 guibg=NONE
 hi cssImportant guifg=#cec9c9 guibg=NONE
 hi Type guifg=#f39207 guibg=NONE
-hi primitive_type guifg=#f39207 guibg=NONE
-hi type guifg=#f39207 guibg=NONE
 hi Identifier guifg=#cec9c9 guibg=NONE
 hi PMenuSel guifg=#f39207 guibg=NONE
 hi Constant guifg=#f39207 guibg=NONE
@@ -37,7 +35,7 @@ hi Debug guifg=#21eb10 guibg=NONE
 hi SpecialChar guifg=#21eb10 guibg=NONE
 hi Conditional guifg=#21eb10 guibg=NONE
 hi Todo guifg=#21eb10 guibg=NONE
-hi Special guifg=#21eb10 guibg=NONE
+hi Special guifg=#f39207 guibg=NONE
 hi Label guifg=#21eb10 guibg=NONE
 hi Delimiter guifg=#21eb10 guibg=NONE
 hi Number guifg=#21eb10 guibg=NONE
