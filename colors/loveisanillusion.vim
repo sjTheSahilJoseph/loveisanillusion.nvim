@@ -35,7 +35,7 @@ hi Debug guifg=#21eb10 guibg=NONE
 hi SpecialChar guifg=#21eb10 guibg=NONE
 hi Conditional guifg=#21eb10 guibg=NONE
 hi Todo guifg=#21eb10 guibg=NONE
-hi Special guifg=#f39207 guibg=NONE
+hi Special guifg=#21eb10 guibg=NONE
 hi Label guifg=#21eb10 guibg=NONE
 hi Delimiter guifg=#21eb10 guibg=NONE
 hi Number guifg=#21eb10 guibg=NONE
