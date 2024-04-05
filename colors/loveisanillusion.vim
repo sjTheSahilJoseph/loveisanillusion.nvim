@@ -22,7 +22,7 @@ hi cssImportant guifg=#cec9c9 guibg=NONE
 hi Type guifg=#f39207 guibg=NONE
 hi Identifier guifg=#cec9c9 guibg=NONE
 hi PMenuSel guifg=#f39207 guibg=NONE
-hi Constant guifg=#f39207 guibg=NONE
+hi Constant guifg=#cec9c9 guibg=NONE
 hi Repeat guifg=#f39207 guibg=NONE
 hi DiffAdd guifg=#f39207 guibg=NONE
 hi GitGutterAdd guifg=#f39207 guibg=NONE
@@ -35,7 +35,7 @@ hi Debug guifg=#21eb10 guibg=NONE
 hi SpecialChar guifg=#21eb10 guibg=NONE
 hi Conditional guifg=#21eb10 guibg=NONE
 hi Todo guifg=#21eb10 guibg=NONE
-hi Special guifg=#f39207 guibg=NONE
+hi Special guifg=#ebebe1 guibg=NONE
 hi Label guifg=#21eb10 guibg=NONE
 hi Delimiter guifg=#21eb10 guibg=NONE
 hi Number guifg=#21eb10 guibg=NONE
@@ -67,13 +67,14 @@ hi SignColumn guibg=#000000
 hi Title guifg=#b1b1b1
 hi LineNr guifg=#4b4b4b guibg=#000000
 hi NonText guifg=#6a6a6d guibg=#000000
-hi Comment guifg=#096dc1 gui=italic
-hi SpecialComment guifg=#096dc1 gui=italic guibg=NONE
+hi Comment guifg=#121257 gui=italic
+hi SpecialComment guifg=#121257 gui=italic guibg=NONE
 hi CursorLine guibg=#181717
 hi TabLineFill gui=NONE guibg=#181717
 hi TabLine guifg=#4b4b4b guibg=#181717 gui=NONE
 hi StatusLine gui=bold guibg=#181717 guifg=#b1b1b1
 hi StatusLineNC gui=NONE guibg=#000000 guifg=#b1b1b1
-hi Search guibg=#6a6a6d guifg=#b1b1b1
+hi Search guibg=#0e5e07 guifg=#f6f7f8
 hi VertSplit gui=NONE guifg=#181717 guibg=NONE
 hi Visual gui=NONE guibg=#540408
+
