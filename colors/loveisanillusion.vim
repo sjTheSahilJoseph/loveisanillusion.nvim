@@ -22,7 +22,7 @@ hi cssImportant guifg=#cec9c9 guibg=NONE
 hi Type guifg=#f39207 guibg=NONE
 hi Identifier guifg=#cec9c9 guibg=NONE
 hi PMenuSel guifg=#f39207 guibg=NONE
-hi Constant guifg=#cec9c9 guibg=NONE
+hi Constant guifg=#21eb10 guibg=NONE
 hi Repeat guifg=#f39207 guibg=NONE
 hi DiffAdd guifg=#f39207 guibg=NONE
 hi GitGutterAdd guifg=#f39207 guibg=NONE
