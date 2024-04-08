@@ -49,7 +49,7 @@ hi Macro gui=NONE guifg=#21eb10 guibg=NONE
 hi DiffChange gui=NONE guifg=#21eb10 guibg=NONE
 hi GitGutterChange gui=NONE guifg=#21eb10 guibg=NONE
 hi cssColor gui=NONE guifg=#21eb10 guibg=NONE
-hi Function gui=NONE guifg=#f6f7f8 guibg=NONE
+hi Function gui=NONE guifg=#cec9c9 guibg=NONE
 hi Directory gui=NONE guifg=#f05624 guibg=NONE
 hi markdownLinkText gui=NONE gui=NONE guifg=#f05624 guibg=NONE
 hi javaScriptBoolean gui=NONE guifg=#f05624 guibg=NONE
@@ -57,16 +57,16 @@ hi Include gui=NONE guifg=#f05624 guibg=NONE
 hi Storage gui=NONE guifg=#f05624 guibg=NONE
 hi cssClassName gui=NONE guifg=#f05624 guibg=NONE
 hi cssClassNameDot gui=NONE guifg=#f05624 guibg=NONE
-hi Statement gui=NONE guifg=#ebebe1 guibg=NONE
-hi Operator gui=NONE guifg=#ebebe1 guibg=NONE
-hi cssAttr gui=NONE guifg=#ebebe1 guibg=NONE
+hi Statement gui=NONE guifg=#cec9c9 guibg=NONE
+hi Operator gui=NONE guifg=#cec9c9 guibg=NONE
+hi cssAttr gui=NONE guifg=#cec9c9 guibg=NONE
 hi ColorColumn gui=NONE guibg=#181717
 
 hi Pmenu gui=NONE guifg=#b1b1b1 guibg=#181717
 hi SignColumn gui=NONE guibg=#000000
-hi Title gui=NONE guifg=#b1b1b1
+hi Title gui=NONE guifg=#cec9c9
 hi LineNr gui=NONE guifg=#4b4b4b guibg=#000000
-hi NonText gui=NONE guifg=#6a6a6d guibg=#000000
+hi NonText gui=NONE guifg=#cec9c9 guibg=#000000
 hi Comment gui=NONE guifg=#0c6bbc gui=italic
 hi SpecialComment gui=NONE guifg=#0c6bbc gui=italic guibg=NONE
 hi CursorLine gui=NONE guibg=#181717
