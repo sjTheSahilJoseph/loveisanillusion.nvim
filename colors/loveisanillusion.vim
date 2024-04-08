@@ -21,6 +21,7 @@ hi cssIdentifier gui=NONE guifg=#cec9c9 guibg=NONE
 hi cssImportant gui=NONE guifg=#cec9c9 guibg=NONE
 hi Type guifg=#f39207 guibg=NONE
 hi Identifier gui=NONE guifg=#cec9c9 guibg=NONE
+hi Variable gui=NONE guifg=#cec9c9 guibg=NONE
 hi PMenuSel gui=NONE guifg=#f39207 guibg=NONE
 hi Constant gui=NONE guifg=#21eb10 guibg=NONE
 hi Repeat gui=NONE guifg=#f39207 guibg=NONE
