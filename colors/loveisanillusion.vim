@@ -31,7 +31,7 @@ hi Title gui=NONE guifg=#21eb10 guibg=NONE
 hi PreCondit gui=NONE guifg=#21eb10 guibg=NONE
 hi Debug gui=NONE guifg=#21eb10 guibg=NONE
 hi SpecialChar gui=NONE guifg=#21eb10 guibg=NONE
-hi Conditional gui=NONE guifg=#21eb10 guibg=NONE
+hi Conditional gui=NONE guifg=#cec9c9 guibg=NONE
 hi Todo gui=NONE guifg=#21eb10 guibg=NONE
 hi Special gui=NONE guifg=#f39207 guibg=NONE
 hi Label gui=NONE guifg=#21eb10 guibg=NONE
