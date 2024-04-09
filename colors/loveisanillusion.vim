@@ -17,8 +17,6 @@ hi Error gui=NONE guifg=#cec9c9 guibg=NONE
 hi DiffDelete gui=NONE guifg=#cec9c9 guibg=NONE
 hi GitGutterDelete gui=NONE guifg=#cec9c9 guibg=NONE
 hi GitGutterChangeDelete gui=NONE guifg=#cec9c9 guibg=NONE
-hi cssIdentifier gui=NONE guifg=#cec9c9 guibg=NONE
-hi cssImportant gui=NONE guifg=#cec9c9 guibg=NONE
 hi Type guifg=#f39207 guibg=NONE
 hi Identifier gui=NONE guifg=#cec9c9 guibg=NONE
 hi Variable gui=NONE guifg=#cec9c9 guibg=NONE
@@ -27,7 +25,6 @@ hi Constant gui=NONE guifg=#21eb10 guibg=NONE
 hi Repeat gui=NONE guifg=#f39207 guibg=NONE
 hi DiffAdd gui=NONE guifg=#f39207 guibg=NONE
 hi GitGutterAdd gui=NONE guifg=#f39207 guibg=NONE
-hi cssIncludeKeyword gui=NONE guifg=#f39207 guibg=NONE
 hi Keyword gui=NONE guifg=#f39207 guibg=NONE
 hi IncSearch gui=NONE guifg=#000000 guibg=#21eb10
 hi Title gui=NONE guifg=#21eb10 guibg=NONE
@@ -49,18 +46,12 @@ hi MatchParen gui=NONE guifg=#21eb10 guibg=NONE
 hi Macro gui=NONE guifg=#21eb10 guibg=NONE
 hi DiffChange gui=NONE guifg=#21eb10 guibg=NONE
 hi GitGutterChange gui=NONE guifg=#21eb10 guibg=NONE
-hi cssColor gui=NONE guifg=#21eb10 guibg=NONE
 hi Function gui=NONE guifg=#cec9c9 guibg=NONE
 hi Directory gui=NONE guifg=#f05624 guibg=NONE
-hi markdownLinkText gui=NONE gui=NONE guifg=#f05624 guibg=NONE
-hi javaScriptBoolean gui=NONE guifg=#f05624 guibg=NONE
 hi Include gui=NONE guifg=#f05624 guibg=NONE
 hi Storage gui=NONE guifg=#f05624 guibg=NONE
-hi cssClassName gui=NONE guifg=#f05624 guibg=NONE
-hi cssClassNameDot gui=NONE guifg=#f05624 guibg=NONE
-hi Statement gui=NONE guifg=#cec9c9 guibg=NONE
+hi Statement gui=NONE guifg=#f39207 guibg=NONE
 hi Operator gui=NONE guifg=#cec9c9 guibg=NONE
-hi cssAttr gui=NONE guifg=#cec9c9 guibg=NONE
 hi ColorColumn gui=NONE guibg=#181717
 
 hi Pmenu gui=NONE guifg=#b1b1b1 guibg=#181717
