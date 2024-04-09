@@ -18,7 +18,7 @@ hi DiffDelete gui=NONE guifg=#cec9c9 guibg=NONE
 hi GitGutterDelete gui=NONE guifg=#cec9c9 guibg=NONE
 hi GitGutterChangeDelete gui=NONE guifg=#cec9c9 guibg=NONE
 hi Type guifg=#f39207 guibg=NONE
-hi Identifier gui=NONE guifg=#cec9c9 guibg=NONE
+hi Identifier gui=NONE guifg=#f39207 guibg=NONE
 hi Variable gui=NONE guifg=#cec9c9 guibg=NONE
 hi PMenuSel gui=NONE guifg=#f39207 guibg=NONE
 hi Constant gui=NONE guifg=#21eb10 guibg=NONE
