@@ -70,3 +70,4 @@ hi Search gui=NONE guibg=#6a6a6d guifg=#b1b1b1
 hi VertSplit gui=NONE guifg=#181717 guibg=NONE
 hi Visual gui=NONE guibg=#540408
 
+hi tsxClosingTag gui=NONE guifg=#cec9c9 guibg=NONE
