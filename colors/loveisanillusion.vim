@@ -74,3 +74,5 @@ hi tsxCloseString gui=NONE guifg=#cec9c9 guibg=NONE
 hi tsxTag gui=NONE guifg=#cec9c9 guibg=NONE
 hi tsxAttrib gui=NONE guifg=#cec9c9 guibg=NONE
 hi typescriptArrowFunc gui=NONE guifg=#cec9c9 guibg=NONE
+hi typescriptObjectLabel gui=NONE guifg=#cec9c9 guibg=NONE
+
