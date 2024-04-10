@@ -33,14 +33,14 @@ hi Debug gui=NONE guifg=#21eb10 guibg=NONE
 hi SpecialChar gui=NONE guifg=#21eb10 guibg=NONE
 hi Conditional gui=NONE guifg=#f39207 guibg=NONE
 hi Todo gui=NONE guifg=#21eb10 guibg=NONE
-hi Special gui=NONE guifg=#f39207 guibg=NONE
-hi Label gui=NONE guifg=#21eb10 guibg=NONE
+hi Special gui=NONE guifg=#cec9c9 guibg=NONE
+hi Label gui=NONE guifg=#cec9c9 guibg=NONE
 hi Delimiter gui=NONE guifg=#21eb10 guibg=NONE
 hi Number gui=NONE guifg=#21eb10 guibg=NONE
 hi CursorLineNR gui=NONE guifg=#21eb10 guibg=NONE
 hi Define gui=NONE guifg=#21eb10 guibg=NONE
 hi MoreMsg gui=NONE guifg=#21eb10 guibg=NONE
-hi Tag gui=NONE guifg=#f39207 guibg=NONE
+hi Tag gui=NONE guifg=#cec9c9 guibg=NONE
 hi String gui=NONE guifg=#21eb10 guibg=NONE
 hi MatchParen gui=NONE guifg=#21eb10 guibg=NONE
 hi Macro gui=NONE guifg=#21eb10 guibg=NONE
