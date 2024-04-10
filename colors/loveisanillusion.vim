@@ -35,7 +35,7 @@ hi Conditional gui=NONE guifg=#f39207 guibg=NONE
 hi Todo gui=NONE guifg=#21eb10 guibg=NONE
 hi Special gui=NONE guifg=#cec9c9 guibg=NONE
 hi Label gui=NONE guifg=#cec9c9 guibg=NONE
-hi Delimiter gui=NONE guifg=#21eb10 guibg=NONE
+hi Delimiter gui=NONE guifg=#cec9c9 guibg=NONE
 hi Number gui=NONE guifg=#21eb10 guibg=NONE
 hi CursorLineNR gui=NONE guifg=#21eb10 guibg=NONE
 hi Define gui=NONE guifg=#21eb10 guibg=NONE
