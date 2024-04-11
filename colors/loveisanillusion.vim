@@ -9,7 +9,7 @@ hi Normal guifg=#999999 ctermbg=NONE guibg=#000000 gui=NONE
 
 let colorw = "#ffffff"
 let colorb = "#000000"
-let color1 = "#888888"
+let color1 = "#999999"
 let color2 = "#d47c02"
 let color3 = "#1dc40c"
 let color4 = "#f05624"
