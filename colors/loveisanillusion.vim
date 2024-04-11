@@ -5,8 +5,9 @@ let g:colors_name = "loveisanillusion"
 set background=dark
 set t_Co=256
 
-
 hi Normal guifg=#999999 ctermbg=NONE guibg=#000000 gui=NONE
+
+let color1 = "#888888"
 
 hi DiffText gui=NONE guifg=#999999 guibg=NONE
 hi ErrorMsg gui=NONE guifg=#999999 guibg=NONE
