@@ -7,7 +7,17 @@ set t_Co=256
 
 hi Normal guifg=#999999 ctermbg=NONE guibg=#000000 gui=NONE
 
+let colorw = "#ffffff"
+let colorb = "#000000"
 let color1 = "#888888"
+let color2 = "#d47c02"
+let color3 = "#1dc40c"
+let color4 = "#f05624"
+let color5 = "#0c6bbc"
+let color6 = "#181717"
+let color7 = "#4b4b4b"
+let color8 = "#540408"
+let color9 = "#6a6a6d"
 
 hi DiffText gui=NONE guifg=#999999 guibg=NONE
 hi ErrorMsg gui=NONE guifg=#999999 guibg=NONE
